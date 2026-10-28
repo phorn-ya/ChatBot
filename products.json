@@ -1,0 +1,34 @@
+[
+  {
+    "name_en": "Vitamin C Serum 30ml",
+    "name_km": "សេរ៉ូមវីតាមីនស៊ី ៣០មល",
+    "price": 12.00,
+    "desc_en": "Brightens skin and fades dark spots. Use in the morning. Suitable for all skin types.",
+    "desc_km": "ធ្វើឱ្យស្បែកភ្លឺ និងបន្ថយស្នាមអុជ។ ប្រើពេលព្រឹក។ សមស្របគ្រប់ប្រភេទស្បែក។",
+    "photo": ""
+  },
+  {
+    "name_en": "Gentle Foam Cleanser 100ml",
+    "name_km": "ទឹកលាងមុខបែបស្រាល ១០០មល",
+    "price": 8.00,
+    "desc_en": "Removes dirt and oil without drying the skin. Good for sensitive skin.",
+    "desc_km": "សម្អាតកខ្វក់ និងខ្លាញ់ដោយមិនធ្វើឱ្យស្បែកស្ងួត។ ល្អសម្រាប់ស្បែកងាយប្រតិកម្ម។",
+    "photo": ""
+  },
+  {
+    "name_en": "Sunscreen SPF50 50ml",
+    "name_km": "ឡេការពារកម្តៅថ្ងៃ SPF50 ៥០មល",
+    "price": 10.00,
+    "desc_en": "Lightweight daily sun protection. No white cast.",
+    "desc_km": "ការពារកម្តៅថ្ងៃប្រចាំថ្ងៃ ស្រាល មិនធ្វើឱ្យស្បែកស។",
+    "photo": ""
+  },
+  {
+    "name_en": "Hydrating Moisturizer 50ml",
+    "name_km": "ក្រែមផ្តល់សំណើម ៥០មល",
+    "price": 11.00,
+    "desc_en": "Keeps skin soft and hydrated all day. Use morning and night.",
+    "desc_km": "ធ្វើឱ្យស្បែករលោង និងមានសំណើមពេញមួយថ្ងៃ។ ប្រើព្រឹក និងយប់។",
+    "photo": ""
+  }
+]
